@@ -1,0 +1,16 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\bin\Debug\net8.0-windows\ALABAI22.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\bin\Debug\net8.0-windows\ALABAI22.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\bin\Debug\net8.0-windows\ALABAI22.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\bin\Debug\net8.0-windows\ALABAI22.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\bin\Debug\net8.0-windows\ALABAI22.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\refint\ALABAI22.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ALABAI22.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI22\ALABAI22\obj\Debug\net8.0-windows\ref\ALABAI22.dll
