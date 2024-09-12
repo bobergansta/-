@@ -1,0 +1,16 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\bin\Debug\net8.0-windows\ALABAI18.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\bin\Debug\net8.0-windows\ALABAI18.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\bin\Debug\net8.0-windows\ALABAI18.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\bin\Debug\net8.0-windows\ALABAI18.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\bin\Debug\net8.0-windows\ALABAI18.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\refint\ALABAI18.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ALABAI18.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI18\ALABAI18\obj\Debug\net8.0-windows\ref\ALABAI18.dll
